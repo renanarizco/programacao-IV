@@ -1,0 +1,27 @@
+#p1{
+   font-size: 50px;
+   font-family: Arial, Helvetica, sans-serif;
+   text-align: center;
+}
+
+#p2{
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.span1{
+    font-weight: bold;
+    color: indigo;
+}
+
+.span1:hover{
+    font-size: 40px;
+}
+
+#img1{
+    height: 700;
+    width: 400;
+    position: relative;
+    left: 23%;
+}

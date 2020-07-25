@@ -1,0 +1,85 @@
+﻿@model IEnumerable<MART_Virtus.Models.Fornecedor>
+
+@{
+    ViewData["Title"] = "Fornecedores";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>FORNECEDORES</h1>
+
+<p>
+    <a asp-action="Create">Cadastrar novo Fornecedor</a>
+</p>
+<table class="table table-hover table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.fornecedor_nomefantasia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.fornecedor_cnpj)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.fornecedor_rua)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.fornecedor_numero)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.fornecedor_bairro)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.fornecedor_cidade)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.fornecedor_uf)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.fornecedor_email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.fornecedor_telefone)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.fornecedor_nomefantasia)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.fornecedor_cnpj)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.fornecedor_rua)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.fornecedor_numero)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.fornecedor_bairro)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.fornecedor_cidade)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.fornecedor_uf)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.fornecedor_email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.fornecedor_telefone)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.fornecedor_id">Editar</a> |
+                    <a asp-action="Details" asp-route-id="@item.fornecedor_id">Detalhes</a> |
+                    <a asp-action="Delete" asp-route-id="@item.fornecedor_id">Deletar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

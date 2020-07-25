@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Prova ex 2 renan</title>
+
+<script>
+    var num = 0;
+    var result = 0;
+
+    function ObterValores(){
+	    num = document.getElementById("soma").value;
+	}
+
+    function Soma(){
+        ObterValores();
+        result = 0;
+
+        for(var n = 0; n <= num; n++){
+            result = result + n;
+
+            document.getElementById("resultado").value = result;
+        }
+    }
+
+</script>
+
+</head>
+<body>
+
+    <p>
+        <label>Soma:</label>
+        <input type="text" id="soma"/>
+    </p>
+
+    <p>
+        <label>Resultado:</label>
+        <input type="text" id="resultado" disabled/>
+    </p>
+
+    <p>
+        <input type="button" value="soma" onclick="Soma()"/>
+    </p>
+    
+</body>
+</html>

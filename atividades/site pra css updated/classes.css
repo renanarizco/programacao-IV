@@ -1,0 +1,33 @@
+#div1{
+    text-align: center;
+    position: absolute;
+    text-shadow:1px 2px 5px black;
+    right: 22%;
+    left: 40%;
+}
+
+#div2{
+    text-align: center;
+    position: absolute;
+    top: 26%;
+    right: 48%;
+}
+
+table, th, td{
+    background-color:rgb(102, 204, 204);
+    border: 2px black solid;
+}
+
+#th1{
+    font-size: 50px;
+    color: black;
+    font-weight: bold;
+}
+
+a:link{
+    color: #3399FF;
+}
+
+a:visited{
+    color: #3399FF;
+}

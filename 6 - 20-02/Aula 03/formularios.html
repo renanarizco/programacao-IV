@@ -1,0 +1,86 @@
+<html>
+    <head>
+        <title>Formularios</title>
+    </head>
+
+    <body>
+        <form>
+
+            <p>
+                <label>Nome:</label>
+                <input name="nome"/>
+            </p>
+            <p>
+                <label>Usuário</label>
+                <input name="usuario" type="text"/>
+            </p>
+            <p>
+                <label>Senha</label>
+                <input name="senha" type="password"/>
+            </p>
+            <p>
+                <label>Cidade</label>
+                <input name="cidade" type="text" value="Bebedouro"/>
+            </p>
+            <p>
+                <label>Bairro</label>
+                <input name="cidade" type="text" placeholder="Informe o bairro"/>
+            </p>
+            <p>
+                <label>Endereço</label>
+                <input name="endereco" type="text" size="35"/>
+            </p>
+            <p>
+                <label>Quantidade de filhos</label>
+                <input name="filhos" type="text" maxlength="2"/>
+            </p>
+
+            <p>
+                Qual é o seu esporte favorito?
+                <br/>
+                <input type="checkbox" name="esporte" value="basquete" checked/>Basquete 
+                <br/>
+                <input type="checkbox" name="esporte" value="bocha"/>Bocha 
+                <br/>
+                <input type="checkbox" name="esporte" value="futebol"/>Futebol
+                <br/>
+                <input type="checkbox" name="esporte" value="voleibol"/>Vôlei
+            </p>
+
+            <p>
+                Qual é o seu time?
+                <br/>
+                <input type="radio" name="time" value="keyd/" checked/>Keyd Gaming
+                <br/>
+                <input type="radio" name="time" value="pain"/>Pain Gaming
+                <br/>
+                <input type="radio" name="time" value="intz"/>INTZ
+                <br/>
+                <input type="radio" name="time" value="flamengo"/>Flamengo
+            </p>
+
+            <p>
+                <label>Escolha um sabor:</label>
+                <br/>
+                <select name="sabor">
+                    <option value="morango">Morango</option>
+                    <option value="chocolate" selected>Chocolate/option>
+                    <option value="sorvete">Sorvete</option>
+                    <option value="banana">Banana</option>
+                </select>
+            </p>
+
+            <p>
+                <textarea name="comentario" cols="40" rows="5" placeholder="Eu gostaria de: "></textarea>
+            </p>
+
+            <p>
+                <input type="submit" value="Enviar mensagem">
+                <input type="reset">
+                
+            </p>
+
+
+        </form>
+    </body>
+</html>

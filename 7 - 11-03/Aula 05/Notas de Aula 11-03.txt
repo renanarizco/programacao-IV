@@ -1,0 +1,6 @@
+CSS
+- Cascading style sheets
+- O objetivo é prover a separação entre o formato e o conteudo de um documento
+- Não usar inline
+- É ideal usar a importada, permite a reutilização de todo o estilo
+- Utilizar o css box model (margin > border > padding > conteudo)

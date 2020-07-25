@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página exemplo 1</title>
+
+    <style type="text/css">
+        /*o "#" acessa o id da tag*/
+        #zoom{ 
+            background-image: url(img.jpg);
+            background-repeat: no-repeat;
+            margin: 0px;
+            padding: 0px;
+            height: 90px;
+            width: 120px;
+        }
+        
+        /*acessa o "a" dentro do thumb*/
+        #thumb a{
+            display: block;
+            height: 90px;
+        }
+
+        /*hover serve para ter alguma ação quando passar o mouse*/
+        #thumb a:hover{
+            width: 400px;
+            height: 300px;
+            background: transparent url(img.jpg) 0 -90px no-repeat;
+        }
+
+    </style>
+
+</head>
+
+<body>
+    <div id="zoom">
+        <p id="thumb">
+            <a href="#"></a>
+            <!--o "#" significa vazio-->
+        </p>
+    </div>    
+
+
+</body>
+</html>

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!--
+    2 -Desenvolva  uma  página  que  solicite  dois  valores  para  o  usuário  em  um  formulário  HTML
+    e disponibilize  os  botões  para as  operações:  SOMAR,  SUBTRAIR,  MULTIPLICAR  e  DIVIDIR. 
+    Cada botão deve acionar uma função para efetuar o cálculo e exibir o resultado na página.
+-->
+
+<head>
+    <meta charset="UTF-8">
+    <title>Ex2</title>
+
+    <script type="text/javascript">
+    var n1 = 0;
+    var n2 = 0;
+    
+    function ObterValores(){
+		n1 = document.getElementById("n1").value;
+		n2 = document.getElementById("n2").value;
+    }
+
+    function Somar(){
+		ObterValores();
+		document.getElementById("resultado").value = parseInt(n1) + parseInt(n2);
+    }
+    
+    function Subtrair(){
+		ObterValores();
+		document.getElementById("resultado").value = parseInt(n1) - parseInt(n2);
+    }
+    
+    function Multiplicar(){
+		ObterValores();
+		document.getElementById("resultado").value = parseInt(n1) * parseInt(n2);
+    }
+    
+    function Dividir(){
+		ObterValores();
+		document.getElementById("resultado").value = parseInt(n1) / parseInt(n2);
+	}
+
+    </script>
+
+</head>
+<body>
+    <form>
+        <p>
+            <label>Numero 1:</label>
+            <input type="text" id="n1"/>
+        </p>
+        <p>
+            <label>Numero 2:</label>
+            <input type="text" id="n2"/>
+        </p>
+        <p>
+            <label>Resultado:</label>
+            <input type="text" id="resultado" disabled/>
+        </p>
+        <p>
+            <input type="button"  value="Somar" onclick="Somar()"/>
+            <input type="button"  value="Subtrair" onclick="Subtrair()"/>				
+            <input type="button"  value="Multiplicar" onclick="Multiplicar()"/>
+            <input type="button" value="Dividir" onclick="Dividir()"/>		
+        </p>					
+    </form>
+</body>
+</html>

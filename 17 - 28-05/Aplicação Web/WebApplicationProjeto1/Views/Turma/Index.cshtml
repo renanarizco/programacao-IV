@@ -1,0 +1,42 @@
+﻿@model IEnumerable<WebApplicationProjeto1.Models.Turma>
+
+@{
+    ViewData["Title"] = "Turmas";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Turmas</h1>
+
+<p>
+    <a asp-action="Create">Criar nova</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.turma_nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.turma_cod)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.turma_nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.turma_cod)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.turma_id">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.turma_id">Detalhes</a> |
+                <a asp-action="Delete" asp-route-id="@item.turma_id">Deletar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!--
+    6 -Faça  um  programa  que  leia  um  número  N. 
+    Ao  clicar  em  um  botão,  some  todos  os  números inteiros de 1 a N, e mostre o resultado obtido. 
+-->
+
+<head>
+    <meta charset="UTF-8">
+    <title>Ex6</title>
+
+    <script type="text/javascript">
+    var numero = 0, resultado = 0;
+    
+    function ObterValores(){
+        numero = document.getElementById("numero").value;
+        numero = parseInt(numero);
+    }
+
+    function Expressao(){
+        ObterValores();
+        
+        for(var n = 1; n <= numero; n++){
+        resultado = resultado + n;
+        }
+		document.getElementById("resultado").value = resultado;
+    }
+    
+    </script>
+
+</head>
+<body>
+    <form>
+        <p>
+            <label>Numero:</label>
+            <input type="text" id="numero"/>
+        </p>
+        <p>
+            <label>Resultado:</label>
+            <input type="text" id="resultado" disabled/>
+        </p>
+        <p>
+            <input type="button" value="Rodar função" onclick="Expressao()"/>
+        </p>					
+    </form>
+</body>
+</html>

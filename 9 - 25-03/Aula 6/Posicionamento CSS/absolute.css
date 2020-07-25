@@ -1,0 +1,21 @@
+div{
+    border: 1px solid red;
+    width: 25%;
+    height: 85px;
+    margin-bottom: 15px;
+}
+
+#div1{
+    background-color: blue;
+}
+
+#div2{
+    background-color: green;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+
+#div3{
+    background-color: yellow;
+}

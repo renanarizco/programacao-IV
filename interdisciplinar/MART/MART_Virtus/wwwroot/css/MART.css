@@ -1,0 +1,127 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+Body {
+    background-image: linear-gradient(120deg, #1b262c, #2e414c );
+    /*background-image: linear-gradient(120deg, #7d7db1, #efeff6 );*/
+    /*background: #C0BFD9*/
+}
+
+#Titulo {
+    color: white;
+    text-align: center;
+    margin: 50px 0 100px;
+    background-image: linear-gradient(120deg, #0f4c75, #3282b8 );
+    /*background: #565173;*/
+}
+
+    #Titulo p {
+        font-family: 'Roboto', sans-serif;
+        background: white;
+        color: #3282b8;
+        font-weight: bolder;
+    }
+
+    #Titulo h1 {
+
+        font-family: 'Roboto', sans-serif;
+        color: white;
+    }
+
+.nav-item:hover {
+    background: #3282b8;
+    opacity: 0.8;
+    border-radius: 10px;
+    font-weight: bolder !important;
+    transition: 0.2s;
+}
+
+#Politica h1
+{
+    background: white !important;
+}
+
+#HCarrosel {
+    background-image: linear-gradient(120deg, #0f4c75, #3282b8 );
+    text-align: center;
+}
+
+    #HCarrosel h5 {
+        text-shadow: 3px 2px #06060a;
+    }
+
+    #HCarrosel p {
+        text-shadow: 2px 2px #06060a;
+    }
+
+.table {
+    border: 3px solid white;
+    box-shadow: 0px 0px 20px -5px black;
+    background-color: #2e414c;
+    color: #fff;
+    text-align: center;
+    vertical-align:middle;
+
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+    background-color: #3282b8;
+}
+
+#Cabecalho {
+    background-color: #0f4c75;  
+}
+
+/*
+.txtmenu {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    text-decoration: none;
+    margin: 10px 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+
+}
+
+.txtmenu:hover{
+    text-decoration: none;
+    color: #fff;
+
+}
+
+*/
+
+nav .navbar-nav li a {
+    color: white !important;
+}
+
+footer div {
+    color: white !important;
+}
+
+footer div a {
+    color: lightgrey !important;
+}
+
+#PeP {
+position: relative; 
+height: 500px; 
+overflow: auto;
+
+}
+
+.bthid {
+    visibility: hidden;
+}
+
+#MARTCAB{
+    color: #fff
+}
+
+h1, h2, h3, h4, h5, label, p, dl{
+    color: #fff;
+}
+
+hr{
+    border: 1px solid grey;
+}

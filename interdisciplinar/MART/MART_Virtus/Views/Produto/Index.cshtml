@@ -1,0 +1,66 @@
+﻿@model IEnumerable<MART_Virtus.Models.Produto>
+
+@{
+    ViewData["Title"] = "Produtos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>PRODUTOS</h1>
+
+<p>
+    <a asp-action="Create">Cadastrar novo produto</a>
+</p>
+<table class="table table-striped table-hover">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.produto_descricao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.produto_marca)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.produto_codbarras)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.produto_precocusto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.produto_precovenda)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.produto_estoque)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.produto_descricao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.produto_marca)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.produto_codbarras)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.produto_precocusto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.produto_precovenda)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.produto_estoque)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.produto_id">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.produto_id">Detalhes</a> |
+                <a asp-action="Delete" asp-route-id="@item.produto_id">Deletar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!--
+    1-Desenvolva uma página para ler 2 valores e mostre o maior deles em um alerta.
+-->
+
+<head>
+    <meta charset="UTF-8">
+    <title>Ex1</title>
+
+    <script type="text/javascript">
+    
+        function maiorValor(){
+            var n1;
+            var n2;
+            var maior;
+
+            n1 = prompt("Informe o numero 1:");
+            n2 = prompt("Informe o numero 2:");
+
+            if(parseInt(n1) > parseInt(n2))
+            maior = n1;
+            else
+            maior = n2;
+            
+            alert ("O maior é " + maior);
+        }
+       
+    
+        </script>
+</head>
+<body>
+    <input type="button"  value="Rodar função" onclick="maiorValor()"/>
+</body>
+</html>

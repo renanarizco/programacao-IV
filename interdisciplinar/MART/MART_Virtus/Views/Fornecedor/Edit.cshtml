@@ -1,0 +1,75 @@
+﻿@model MART_Virtus.Models.Fornecedor
+
+@{
+    ViewData["Title"] = "Editar fornecedor";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>FORNECEDORES</h1>
+
+<h4>Editar cadastro de Fornecedor</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="fornecedor_id" />
+            <div class="form-group">
+                <label asp-for="fornecedor_nomefantasia" class="control-label"></label>
+                <input asp-for="fornecedor_nomefantasia" class="form-control" required />
+                <span asp-validation-for="fornecedor_nomefantasia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="fornecedor_cnpj" class="control-label"></label>
+                <input asp-for="fornecedor_cnpj" class="form-control" required />
+                <span asp-validation-for="fornecedor_cnpj" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="fornecedor_rua" class="control-label"></label>
+                <input asp-for="fornecedor_rua" class="form-control" required />
+                <span asp-validation-for="fornecedor_rua" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="fornecedor_numero" class="control-label"></label>
+                <input asp-for="fornecedor_numero" class="form-control" required />
+                <span asp-validation-for="fornecedor_numero" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="fornecedor_bairro" class="control-label"></label>
+                <input asp-for="fornecedor_bairro" class="form-control" required />
+                <span asp-validation-for="fornecedor_bairro" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="fornecedor_cidade" class="control-label"></label>
+                <input asp-for="fornecedor_cidade" class="form-control" required />
+                <span asp-validation-for="fornecedor_cidade" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="fornecedor_uf" class="control-label"></label>
+                <input asp-for="fornecedor_uf" class="form-control" required />
+                <span asp-validation-for="fornecedor_uf" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="fornecedor_email" class="control-label"></label>
+                <input asp-for="fornecedor_email" class="form-control" required />
+                <span asp-validation-for="fornecedor_email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="fornecedor_telefone" class="control-label"></label>
+                <input asp-for="fornecedor_telefone" class="form-control" required />
+                <span asp-validation-for="fornecedor_telefone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Salvar" class="btn btn-primary" onclick="Forn_edit()" title="Editar fornecedor" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Voltar para a lista</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

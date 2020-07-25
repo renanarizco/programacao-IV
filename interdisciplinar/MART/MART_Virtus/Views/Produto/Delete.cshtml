@@ -1,0 +1,58 @@
+﻿@model MART_Virtus.Models.Produto
+
+@{
+    ViewData["Title"] = "Deletar produto";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>DELETAR</h1>
+
+<h3>Você tem certeza que deseja deletar este produto?</h3>
+<div>
+    <h4>Produto</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.produto_descricao)
+        </dt>
+        <dd id="prodnomeDel" class = "col-sm-10">
+            @Html.DisplayFor(model => model.produto_descricao)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.produto_marca)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.produto_marca)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.produto_codbarras)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.produto_codbarras)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.produto_precocusto)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.produto_precocusto)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.produto_precovenda)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.produto_precovenda)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.produto_estoque)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.produto_estoque)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="produto_id" />
+        <input type="submit" value="Deletar" class="btn btn-danger" onclick="Prod_del" /> |
+        <a asp-action="Index">Voltar para a lista</a>
+    </form>
+</div>

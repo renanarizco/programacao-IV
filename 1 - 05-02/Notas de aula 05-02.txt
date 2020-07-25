@@ -1,0 +1,8 @@
+Prog IV
+-------
+05-02
+
+html é uma linguagem de marcação
+
+usar css resolve-se os problemas
+

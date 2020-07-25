@@ -1,0 +1,243 @@
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\WebApplicationProjeto1.exe
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\WebApplicationProjeto1.csprojAssemblyReference.cache
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\WebApplicationProjeto1.RazorAssemblyInfo.cache
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\WebApplicationProjeto1.RazorAssemblyInfo.cs
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\WebApplicationProjeto1.AssemblyInfoInputs.cache
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\WebApplicationProjeto1.AssemblyInfo.cs
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\WebApplicationProjeto1.TagHelpers.input.cache
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\WebApplicationProjeto1.TagHelpers.output.cache
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\WebApplicationProjeto1.RazorCoreGenerate.cache
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\WebApplicationProjeto1.RazorTargetAssemblyInfo.cache
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\WebApplicationProjeto1.RazorTargetAssemblyInfo.cs
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplicationProjeto1.StaticWebAssets.Manifest.cache
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplicationProjeto1.StaticWebAssets.xml
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\WebApplicationProjeto1.deps.json
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\WebApplicationProjeto1.runtimeconfig.json
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\WebApplicationProjeto1.runtimeconfig.dev.json
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\WebApplicationProjeto1.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\WebApplicationProjeto1.pdb
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\WebApplicationProjeto1.Views.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\WebApplicationProjeto1.Views.pdb
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\WebApplicationProjeto1.csproj.CoreCompileInputs.cache
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\WebApplicationProjeto1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\WebApplicationProjeto1.Views.pdb
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\WebApplicationProjeto1.csproj.CopyComplete
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\WebApplicationProjeto1.dll
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\WebApplicationProjeto1.pdb
+C:\Users\profe\Desktop\Aulas Unifafibe\PROGIV\Projeto1\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\WebApplicationProjeto1.genruntimeconfig.cache
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\appsettings.json
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\WebApplicationProjeto1.exe
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\WebApplicationProjeto1.deps.json
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\WebApplicationProjeto1.runtimeconfig.json
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\WebApplicationProjeto1.runtimeconfig.dev.json
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\WebApplicationProjeto1.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\WebApplicationProjeto1.pdb
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\WebApplicationProjeto1.Views.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\WebApplicationProjeto1.Views.pdb
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\WebApplicationProjeto1.csprojAssemblyReference.cache
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\WebApplicationProjeto1.AssemblyInfoInputs.cache
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\WebApplicationProjeto1.AssemblyInfo.cs
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\WebApplicationProjeto1.RazorAssemblyInfo.cache
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\WebApplicationProjeto1.RazorAssemblyInfo.cs
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\WebApplicationProjeto1.TagHelpers.input.cache
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\WebApplicationProjeto1.TagHelpers.output.cache
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\WebApplicationProjeto1.RazorCoreGenerate.cache
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\WebApplicationProjeto1.RazorTargetAssemblyInfo.cache
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\WebApplicationProjeto1.RazorTargetAssemblyInfo.cs
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\WebApplicationProjeto1.Views.pdb
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\WebApplicationProjeto1.csproj.CopyComplete
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplicationProjeto1.StaticWebAssets.Manifest.cache
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplicationProjeto1.StaticWebAssets.xml
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\WebApplicationProjeto1.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\WebApplicationProjeto1.pdb
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\WebApplicationProjeto1.genruntimeconfig.cache
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\WebApplicationProjeto1.csproj.CoreCompileInputs.cache
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\WebApplicationProjeto1.MvcApplicationPartsAssemblyInfo.cache
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Create.cshtml.g.cs
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Delete.cshtml.g.cs
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Details.cshtml.g.cs
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Edit.cshtml.g.cs
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Index.cshtml.g.cs
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\Razor\Views\Turma\Create.cshtml.g.cs
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\Razor\Views\Turma\Delete.cshtml.g.cs
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\Razor\Views\Turma\Details.cshtml.g.cs
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\Razor\Views\Turma\Edit.cshtml.g.cs
+A:\MEGA\Backup\Faculdade\Semestres\5 SEMESTRE\Jean\Prog IV\17 - 28-05\WebApplicationProjeto1\WebApplicationProjeto1\obj\Debug\netcoreapp3.1\Razor\Views\Turma\Index.cshtml.g.cs

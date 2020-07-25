@@ -1,0 +1,69 @@
+﻿@model WebApplicationProjeto1.Models.Usuario
+
+@{
+    ViewData["Title"] = "Criar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Criar</h1>
+
+<h4>Usuario</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="usu_nome" class="control-label"></label>
+                <input asp-for="usu_nome" class="form-control" />
+                <span asp-validation-for="usu_nome" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="usu_cpf" class="control-label"></label>
+                <input asp-for="usu_cpf" class="form-control" />
+                <span asp-validation-for="usu_cpf" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="usu_rg" class="control-label"></label>
+                <input asp-for="usu_rg" class="form-control" />
+                <span asp-validation-for="usu_rg" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="usu_endereco" class="control-label"></label>
+                <input asp-for="usu_endereco" class="form-control" />
+                <span asp-validation-for="usu_endereco" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="usu_cidade" class="control-label"></label>
+                <input asp-for="usu_cidade" class="form-control" />
+                <span asp-validation-for="usu_cidade" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="usu_estado" class="control-label"></label>
+                <input asp-for="usu_estado" class="form-control" />
+                <span asp-validation-for="usu_estado" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="usu_nascimento" class="control-label"></label>
+                <input asp-for="usu_nascimento" class="form-control" />
+                <span asp-validation-for="usu_nascimento" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="usu_telefone" class="control-label"></label>
+                <input asp-for="usu_telefone" class="form-control" />
+                <span asp-validation-for="usu_telefone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Criar" class="btn-meu" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Voltar para lista</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

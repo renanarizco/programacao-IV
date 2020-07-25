@@ -1,0 +1,133 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>CSS</title>
+
+    <style type="text/css">
+      h1{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 18px;
+        text-transform: uppercase;
+        color:rgb(255, 75, 75);
+      }
+      
+      h2{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 16px;
+        font-weight: bold;
+        color:rgb(255, 44, 44);
+        text-indent: 10px;
+      }
+
+      p{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 12px;
+        color: rgb(255, 44, 44);
+        text-indent: 20px;
+      }
+
+      ol{
+        font-size: 12px;
+        font-style: italic;
+        color: red;
+      }
+
+      ol ul{
+        font-size: 9px;
+        font-style: normal;
+        color: darkred;
+      }
+
+      .img1{
+        background-color: rgb(63, 63, 63);
+        text-indent: 0px;
+        height: auto;
+        width: 330px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-left: 100px;
+      }
+
+      .roda1{
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 12px;
+        font-style: italic;
+        line-height: 11px;
+        margin-top: 0px;
+        margin-bottom: 10px;
+        color: brown;
+      }
+
+      hr{
+        background-color: black;
+        text-align: left;
+        height: 20px;
+        width: 350px;
+        margin-left: 0px;
+        border: 2px solid #FFFFFF;
+        /*border - tamanho, tipo e cor*/
+      }
+
+      a:link{
+        /*os ":" são um pseudo seletor*/
+        color: floralwhite;
+        text-decoration: solid;
+      }
+      
+      a:visited{
+        color: rgb(51, 51, 51);
+      }
+
+      a:hover{
+        text-decoration: underline overline;
+      }
+
+      body{
+        background-color: rgb(19, 19, 19);
+      }
+
+    </style>
+
+  </head> 
+
+  <body>
+    <h1>Folha de Estilos</h1>
+    <h2>HTML com CSS</h2>
+    <p>Vamos definir alguns estilos em nosso site</p>
+
+    <p class="img1"><img src="Imagens/img.jpg" alt="aprendendo CSS" width="210" height="130" /></p>
+    <ol>
+      <li>Item 1 
+        <ul>
+          <li>Descrição do Item 1</li>
+        </ul>
+      </li>
+
+      <li>Item2
+        <ul>
+          <li> Descrição Item 2</li>
+        </ul>
+      </li>
+      
+      <li>Item 3
+        <ul>
+          <li>Descrição Item 3</li>
+        </ul>
+      </li>
+
+
+      <li>Item 4
+        <ul>
+          <li>Descrição Item 4
+        </ul>
+      </li>
+    </ol>
+
+    <hr/>
+    <p class="roda1">&copy; Programação de aplicativos para internet</p>
+    <p class="roda1">Utilizando CSS</p>
+    <p class="roda1"><a href="http://www.unifafibe.com.br">Centro Universitário Unifafibe</a></p>
+
+  </body>
+</html>

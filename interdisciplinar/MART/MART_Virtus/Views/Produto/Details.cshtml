@@ -1,0 +1,55 @@
+﻿@model MART_Virtus.Models.Produto
+
+@{
+    ViewData["Title"] = "Detalhes do produto";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>DETALHES</h1>
+
+<div>
+    <h4>Detalhes do produto</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.produto_descricao)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.produto_descricao)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.produto_marca)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.produto_marca)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.produto_codbarras)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.produto_codbarras)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.produto_precocusto)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.produto_precocusto)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.produto_precovenda)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.produto_precovenda)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.produto_estoque)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.produto_estoque)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.produto_id" class="btn btn-info">Editar</a> |
+    <a asp-action="Index">Voltar para lista</a>
+</div>

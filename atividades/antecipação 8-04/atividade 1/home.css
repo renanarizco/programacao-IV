@@ -1,0 +1,62 @@
+#user{
+    height: 60px;
+    width: 60px;
+    border: 2px;
+    border-color: black;
+}
+
+#username{
+    color: blue;
+    font-weight: bold;
+    position: absolute;
+    top: 0%;
+    left: 9%;
+}
+
+#favorites{
+    color: rgb(187, 187, 187);
+    font-weight: bold;
+}
+
+#feed{
+    color: black;
+    position: absolute;
+    left: 15%;
+}
+
+
+#feed2{
+    color: black;
+    position: absolute;
+    left: 15%;
+}
+
+#feed3{
+    color: black;
+    position: absolute;
+    left: 15%;
+    width: 250px;
+}
+
+.divimg{
+    position: relative;
+    left: 5px;
+}
+
+.divimg:hover{
+    background-color: lightgrey;
+    font-weight: bold;
+}
+
+.feedimg{
+    height: 25px;
+    width: 25px;
+    position: relative;
+    left: 3%;
+}
+
+body{
+    margin-top: 1px;
+    margin-right: 1100px;
+    border: solid black 1px;
+}

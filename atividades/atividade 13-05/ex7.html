@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!--
+    7 -Crie  um formulário  com 5  campos  do  tipo  texto  e  um  botão. 
+     Ao  clicar no  botão, deve-se  exibir um  alerta  com  a mensagem “Cadastro efetuado com sucesso”. 
+     A mensagem somente deve ser exibida caso todos os campos sejam preenchidos.
+     Deve-se validar o preenchimento de cadacampo com mensagens(alertas) de obrigatoriedade.
+-->
+
+<head>
+    <meta charset="UTF-8">
+    <title>Ex7</title>
+
+    <script type="text/javascript">
+    var c1, c2, c3, c4, c5;
+    
+    function Validar(){
+        c1 = document.getElementById("c1").value;
+        if (c1 == ""){
+            alert("O campo 1 precisa ser preenchido.");
+            return false;
+        }
+        c2 = document.getElementById("c2").value;
+        if (c2 == ""){
+            alert("O campo 2 precisa ser preenchido.");
+            return false;
+        }
+        c3 = document.getElementById("c3").value;
+        if (c3 == ""){
+            alert("O campo 3 precisa ser preenchido.");
+            return false;
+        }
+        c4 = document.getElementById("c4").value;
+        if (c4 == ""){
+            alert("O campo 4 precisa ser preenchido.");
+            return false;
+        }
+        c5 = document.getElementById("c5").value;
+        if (c5 == ""){
+            alert("O campo 5 precisa ser preenchido.");
+            return false;
+        }
+
+        return true;
+    }
+
+    function Funcao(){
+        if(Validar())
+        alert("Cadastro efetuado com sucesso.")
+    }
+    
+    </script>
+
+</head>
+<body>
+    <form>
+        <p>
+            <label>Campo 1:</label>
+            <input type="text" id="c1"/>
+        </p>
+        <p>
+            <label>Campo 2:</label>
+            <input type="text" id="c2"/>
+        </p>
+        <p>
+            <label>Campo 3:</label>
+            <input type="text" id="c3"/>
+        </p>
+        <p>
+            <label>Campo 4:</label>
+            <input type="text" id="c4"/>
+        </p>
+        <p>
+            <label>Campo 5:</label>
+            <input type="text" id="c5"/>
+        </p>
+        <p>
+            <input type="button" value="Rodar função" onclick="Funcao()"/>
+        </p>					
+    </form>
+</body>
+</html>

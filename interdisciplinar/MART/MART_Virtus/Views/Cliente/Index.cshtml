@@ -1,0 +1,104 @@
+﻿@model IEnumerable<MART_Virtus.Models.Cliente>
+
+@{
+    ViewData["Title"] = "Clientes";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>CLIENTES</h1>
+
+<p>
+    <a asp-action="Create">Cadastrar novo cliente</a>
+</p>
+<table class="table table-striped table-hover">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.cliente_nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.cliente_tipo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.cliente_rg)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.cliente_cnpj)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.cliente_logradouro)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.cliente_rua)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.cliente_numero)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.cliente_bairro)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.cliente_complemento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.cliente_cep)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.cliente_email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.cliente_telefone)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.cliente_nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cliente_tipo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cliente_rg)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cliente_cnpj)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cliente_logradouro)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cliente_rua)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cliente_numero)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cliente_bairro)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cliente_complemento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cliente_cep)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cliente_email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cliente_telefone)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.cliente_id">Editar</a>
+                <br/>
+                <a asp-action="Details" asp-route-id="@item.cliente_id">Detalhes</a>
+                <br/>
+                <a asp-action="Delete" asp-route-id="@item.cliente_id">Deletar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,44 @@
+<script>
+/*
+$('#divTop')  -> seleciona a Div especificada pelo ID 
+
+$('.menu')    -> seleciona a div especificada
+
+$('table tr:odd') ou even tras linhas impares(odd) ou pares(even)
+
+$('#divTop').height() obtem a altura do elemento
+
+$('#divTop').width() obtem a largura do objeto
+
+$('tr').css({
+    "color":"white",
+    "backgroundColor":"grey"
+});                            -> Define nova cor para as tr
+
+$('table').css("font-weight": "bold");   -> define a fonte em negrito para as tabelas
+
+$(document).ready(function(){
+
+});  ->Executa uma função quando o site estiver carregado
+
+*/
+
+$('tr').css({
+    "color":"white",
+    "backgroundColor":"grey"
+});
+
+$('table').css("font-weight","bold");
+
+$(document).ready(function(){
+    //EVENTOS JQUERY
+    $('li').click(
+        function(){
+            alert("O menu "+ $(this).find("span").html() +" Foi acionado!");
+        }
+    );
+
+
+});
+
+</script>

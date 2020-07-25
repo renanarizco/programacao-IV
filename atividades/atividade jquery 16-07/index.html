@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade jQuery</title>
+    
+</head>
+<body>
+    
+    <div>
+        <p>
+            Hello World.
+        </p>
+        
+        <button>Clique aqui</button>
+        <br>
+        <br>
+        <span></span>
+    </div>
+
+
+    <script src="/jquery-3.5.1.min.js"></script>
+
+    <script>
+
+        $("button").click(
+            
+        function(){
+            $("p")
+                .css("color", "green")
+                .fadeOut(2000)
+                .fadeIn("slow")
+
+            $("button")
+                .css("color", "green")
+                .fadeOut(2000)
+                .fadeIn("slow")
+
+            $("span")
+                .fadeOut(0)
+                .delay(4000)
+                .fadeIn(1000)
+                .text("O botão foi apertado")
+        });
+
+
+    </script>
+</body>
+</html>

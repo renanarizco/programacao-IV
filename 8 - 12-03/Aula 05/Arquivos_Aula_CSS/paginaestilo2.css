@@ -1,0 +1,45 @@
+.botao{
+    top: 60px;
+    left: 50px;
+    margin: 0px;
+    padding: 4px;
+}
+
+.botao a{
+    font: bold 12px Arial;
+    text-align: center;
+    padding: 0px;
+    text-decoration: none;
+    color: #CCC;
+    background: #666 url('Imagens/botao_l.gif') no-repeat center center;
+    width: 120px;
+    height: 24px;
+    display: block;
+}
+
+.botao a:hover{
+    background: #666 url('Imagens/botao_h.gif') no-repeat center center;
+    color: #999;
+}
+
+.conteudo{
+    width: 350px;
+    height: 275px;
+    border: 4px solid #999;
+    background: transparent url('Imagens/quadro.jpg');
+}
+
+.moldura1{
+    width: 404px;
+    border: 20px inset #5d738b;
+    padding: 25px;
+    background: transparent url('Imagens/bg-1.gif');
+}
+
+.moldura2{
+    width: 358px;
+    border: 8px inset #5f6632;
+    padding: 15px;
+    background: #b1b1c3;
+    
+}

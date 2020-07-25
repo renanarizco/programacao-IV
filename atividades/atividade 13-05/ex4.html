@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!--
+    4 -Faça um programa que imprima todos os números ímpares do intervalo de 1 a 100 ao clicar em um botão.
+-->
+
+<head>
+    <meta charset="UTF-8">
+    <title>Ex4</title>
+
+    <script type="text/javascript">
+    var numero;
+
+    function numerosImpar(){
+    for(numero=0; numero <= 100; numero++){
+        if(numero % 2 != 0 )
+        document.write(numero + " ");
+    }
+    }
+    </script>
+
+</head>
+<body>
+        <input type="button" value="Rodar função" onclick="numerosImpar()"/>					
+</body>
+</html>

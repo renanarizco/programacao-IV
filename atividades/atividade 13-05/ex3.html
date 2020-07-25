@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!--
+    3 -Desenvolva  uma  página  que  leia  os  valores  x,  y  e  z  de  um  formulário  
+    e  exiba  o  resultado  da expressão ((x-8)*y)+z ao clicar no botão “resultado”
+-->
+
+<head>
+    <meta charset="UTF-8">
+    <title>Ex3</title>
+
+    <script type="text/javascript">
+    var x, y, z;
+    
+    function ObterValores(){
+		x = document.getElementById("x").value;
+        y = document.getElementById("y").value;
+        z = document.getElementById("z").value;
+    }
+
+    function Expressao(){
+		ObterValores();
+		document.getElementById("resultado").value = ((parseInt(x) - 8) * parseInt(y)) + parseInt(z);
+    }
+    
+
+    </script>
+
+</head>
+<body>
+    <form>
+        <p>
+            <label>X:</label>
+            <input type="text" id="x"/>
+        </p>
+        <p>
+            <label>Y:</label>
+            <input type="text" id="y"/>
+        </p>
+        <p>
+            <label>Z:</label>
+            <input type="text" id="z"/>
+        </p>
+        <p>
+            <label>Resultado:</label>
+            <input type="text" id="resultado" disabled/>
+        </p>
+        <p>
+            <input type="button"  value="Rodar função" onclick="Expressao()"/>
+        </p>					
+    </form>
+</body>
+</html>

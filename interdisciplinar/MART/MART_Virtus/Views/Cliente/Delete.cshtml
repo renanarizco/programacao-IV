@@ -1,0 +1,94 @@
+﻿@model MART_Virtus.Models.Cliente
+
+@{
+    ViewData["Title"] = "Deletar cliente";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>DELETAR</h1>
+
+<h3>Você tem certeza que deseja deletar este cliente?</h3>
+<div>
+    <h4>Cliente</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.cliente_nome)
+        </dt>
+        <dd id="nomeDel" class = "col-sm-10">
+            @Html.DisplayFor(model => model.cliente_nome)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.cliente_tipo)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.cliente_tipo)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.cliente_rg)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.cliente_rg)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.cliente_cnpj)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.cliente_cnpj)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.cliente_logradouro)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.cliente_logradouro)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.cliente_rua)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.cliente_rua)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.cliente_numero)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.cliente_numero)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.cliente_bairro)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.cliente_bairro)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.cliente_complemento)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.cliente_complemento)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.cliente_cep)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.cliente_cep)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.cliente_email)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.cliente_email)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.cliente_telefone)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.cliente_telefone)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="cliente_id" />
+        <input type="submit" value="Deletar" class="btn btn-danger" onclick="Cli_del()" /> |
+        <a asp-action="Index">Voltar para lista</a>
+    </form>
+</div>

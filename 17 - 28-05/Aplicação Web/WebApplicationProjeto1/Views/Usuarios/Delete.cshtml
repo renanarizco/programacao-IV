@@ -1,0 +1,70 @@
+﻿@model WebApplicationProjeto1.Models.Usuario
+
+@{
+    ViewData["Title"] = "Deletar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Deletar</h1>
+
+<h3>Você tem certeza que quer deletar isso?</h3>
+<div>
+    <h4>Usuario</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.usu_nome)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.usu_nome)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.usu_cpf)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.usu_cpf)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.usu_rg)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.usu_rg)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.usu_endereco)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.usu_endereco)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.usu_cidade)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.usu_cidade)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.usu_estado)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.usu_estado)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.usu_nascimento)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.usu_nascimento)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.usu_telefone)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.usu_telefone)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="usu_codigo" />
+        <input type="submit" value="Deletar" class="btn btn-danger" /> |
+        <a asp-action="Index">Voltar para lista</a>
+    </form>
+</div>

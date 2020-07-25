@@ -1,0 +1,18 @@
+Dicas de Otimização
+
+.Habilitar o GZIP
+-Corte mais de 50% do tráfego total.
+
+.Minificar JS, CSS e HTML
+
+.CSS no topo, JS no fim
+
+.Não redimensionar imagens no HTML
+
+.Diminuir Requests
+
+.Otimize o first view (carregar de acordo com a necessidade)
+
+.Utizar ferramentas de diagnóstico (firebug, yslow, pagespeed, analytics)
+
+.Usar código eficiente

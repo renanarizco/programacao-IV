@@ -1,0 +1,60 @@
+﻿@model MART_Virtus.Models.Produto
+
+@{
+    ViewData["Title"] = "Editar produto";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>EDITAR</h1>
+
+<h4>Editar produto</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="produto_id" />
+            <div class="form-group">
+                <label asp-for="produto_descricao" class="control-label"></label>
+                <input asp-for="produto_descricao" class="form-control" required />
+                <span asp-validation-for="produto_descricao" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="produto_marca" class="control-label"></label>
+                <input asp-for="produto_marca" class="form-control" required />
+                <span asp-validation-for="produto_marca" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="produto_codbarras" class="control-label"></label>
+                <input asp-for="produto_codbarras" class="form-control" required />
+                <span asp-validation-for="produto_codbarras" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="produto_precocusto" class="control-label"></label>
+                <input asp-for="produto_precocusto" class="form-control" required />
+                <span asp-validation-for="produto_precocusto" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="produto_precovenda" class="control-label"></label>
+                <input asp-for="produto_precovenda" class="form-control" required />
+                <span asp-validation-for="produto_precovenda" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="produto_estoque" class="control-label"></label>
+                <input asp-for="produto_estoque" class="form-control" required />
+                <span asp-validation-for="produto_estoque" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Salvar" class="btn btn-primary" onclick="Prod_edit()" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Voltar para lista</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

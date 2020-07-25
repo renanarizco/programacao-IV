@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Operações Lógicas</title>
+
+    <script type="text/javascript">
+        var idade;
+        idade = prompt("Informe sua idade: ");
+
+        //Enquanto a idade informada for < 18, solicite a idade novamente
+        while(idade < 18){
+            idade = prompt("Informe sua idade: ");
+        }
+        
+        
+        var aceita_termo = confirm("Esse site tem conteúdo impróprio. \n Deseja Continuar?");
+
+        if(idade >= 18 && aceita_termo){
+        document.write("Bem-vindo!");
+        }
+
+        else{
+            document.write("<b>Permissão negada!</b>");
+        }
+
+        
+    </script>
+
+</head>
+<body>
+
+</body>
+</html>
